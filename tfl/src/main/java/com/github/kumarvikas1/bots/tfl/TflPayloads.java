@@ -1,4 +1,4 @@
-package com.github.kumarvikas1.bots.service.core.tfl;
+package com.github.kumarvikas1.bots.tfl;
 
 import java.time.LocalDate;
 import java.util.function.Supplier;

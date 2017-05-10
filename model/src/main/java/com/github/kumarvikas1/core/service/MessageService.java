@@ -1,8 +1,7 @@
-package com.github.kumarvikas1.bots.service.core;
+package com.github.kumarvikas1.core.service;
 
-import com.github.kumarvikas1.bots.enums.Flows;
-import com.github.kumarvikas1.bots.model.Chats;
 import com.github.kumarvikas1.core.chat.BotRequest;
+import com.github.kumarvikas1.core.enums.Flows;
 import com.github.kumarvikas1.core.response.facebook.Message;
 import org.springframework.stereotype.Component;
 

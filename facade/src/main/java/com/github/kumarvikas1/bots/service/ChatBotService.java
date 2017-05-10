@@ -1,11 +1,11 @@
 package com.github.kumarvikas1.bots.service;
 
-import com.github.kumarvikas1.bots.model.Chats;
 import com.github.kumarvikas1.bots.service.core.GreetService;
-import com.github.kumarvikas1.bots.service.core.MessageService;
 import com.github.kumarvikas1.core.chat.BotRequest;
 import com.github.kumarvikas1.core.chat.FacebookRequest;
 import com.github.kumarvikas1.core.response.facebook.Message;
+import com.github.kumarvikas1.core.service.Chats;
+import com.github.kumarvikas1.core.service.MessageService;
 import com.google.common.collect.Iterables;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

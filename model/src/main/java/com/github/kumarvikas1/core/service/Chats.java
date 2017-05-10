@@ -1,7 +1,7 @@
-package com.github.kumarvikas1.bots.model;
+package com.github.kumarvikas1.core.service;
 
-import com.github.kumarvikas1.bots.enums.Flows;
 import com.github.kumarvikas1.core.chat.BotRequest;
+import com.github.kumarvikas1.core.enums.Flows;
 
 /**
  * Created by vikakumar on 5/4/17.
